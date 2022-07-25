@@ -8,10 +8,16 @@
 - Yarn - 1.22.19
 
 
-## INSTALAÇÃO
+## Iniciar a aplicação
 
 ```sh
 git clone git@github.com:mrcpicanco/blog-rails.git
 cd blog-rails
 rails s
+```
+
+## Acessando o servidor
+
+```sh
+localhost:3000
 ```
