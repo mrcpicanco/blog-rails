@@ -12,7 +12,7 @@ module BlogRails
     config.load_defaults 6.1
 
     #Tradução automática com i18n
-    config.i18n_default_locale = 'pt-BR'
+    config.i18n.default_locale = 'pt-BR'
     config.time_zone = 'Brasilia'
 
     # Configuration for the application, engines, and railties goes here.
